@@ -1,4 +1,4 @@
-  name: my-first-gh-workflow  # workflow name
+name: my-first-gh-workflow  # workflow name
 on: [push]                  # triggering event
 jobs:                       # list of jobs
   say-hello:             #job name
